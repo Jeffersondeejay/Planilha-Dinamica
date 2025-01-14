@@ -1,11 +1,7 @@
 # Planilha-Dinamica
 Construção da Planilha Dinâmica
-# Projeto EBOOK - Do Zero ao Expert - Desbloqueie seu Potêncial em Programação em IA.
 
->Esse projeto foi criado com o objetivo de incentivar iniciantes a usar as ferramentas de IA, para  aprender programação de dados, de forma didática e com prompt acertivos.
-seguem abaixo.
-
-<a href="https://github.com/Jeffersondeejay/Planilha-Dinamica/blob/main/Dashboard.jpeg"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Jeffersondeejay/Planilha-Dinamica/blob/main/Dashboard.jpeg"> 📕Clique aqui para visualizar o Dashboard</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
