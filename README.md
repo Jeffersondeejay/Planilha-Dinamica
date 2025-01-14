@@ -5,7 +5,7 @@ Construção da Planilha Dinâmica
 >Esse projeto foi criado com o objetivo de incentivar iniciantes a usar as ferramentas de IA, para  aprender programação de dados, de forma didática e com prompt acertivos.
 seguem abaixo.
 
-<a href="https://github.com/Jeffersondeejay/Planilha-Dinamica/blob/main/Dashboard.jpeg now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Jeffersondeejay/Planilha-Dinamica/blob/main/Dashboard.jpeg"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
